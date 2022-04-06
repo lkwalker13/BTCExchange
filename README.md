@@ -1,13 +1,9 @@
 # BTCExchange
 Get currency of BTC
 ## App description
-After opening the application, the game will automatically start.
-A 20 second timer starts. 2 random numbers appear on the screen and one of the three operations on them plus,minus or multiply.
-Below them are four random answers, one of which is correct.You need to select one as fast as you can
-If the player answers correctly, then the button is highlighted in green, otherwise, in red, there is also a counter of correct answers in the upper left corner.
-At the end of the time, a new viewcontroller opens, which displays your progress and a button to play again.
-I tried to write the whole application according to the MVC pattern. 
+ Good afternoon, I am glad to present you BTCExchage. The application gives you the opportunity to find out the BTC exchange rate in real time. There are 21 types of currencies (the most popular).
+The application receives up-to-date information from https://www.coinapi.io/. The application is written according to MVC.
 
-![Uploading Снимок экрана 2022-04-06 в 15.08.15.png…]()
+<img width="361" alt="Снимок экрана 2022-04-06 в 15 08 15" src="https://user-images.githubusercontent.com/65918909/161974432-320fa660-9ab1-4177-922a-67180af40d12.png">
 
 # Thanks for visiting my GitHub
